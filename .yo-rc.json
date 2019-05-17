@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kerion.backend",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "monolith",
+    "baseName": "backend_kerion",
+    "packageName": "com.kerion.backend",
+    "packageFolder": "com/kerion/backend",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mssql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzEzNzllMjc0OWM3YjkyZTU5YTZjNzIyMWNjMmQwY2RmNmFjZTNiZDFlMjJhNzRkZGRmZWQ0M2Q0ZjgwNmJmMjA1YmMwZmY2ODg2ODlkMDZlZWVhNmE0NzRmODU5Mjg2ZDc2NmZmYzc0YzNkYThiNmZhOTY2NjIxY2U0ZTIyMWQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ],
+    "skipClient": true
+  }
+}
